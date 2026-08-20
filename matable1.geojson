@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8215801196666864,
+          47.924287948224645
+        ]
+      },
+      "properties": {
+        "OGC_FID": 40,
+        "EDE": "41235008",
+        "Effectif": 684,
+        "Atelier": "Atelier naissage"
+      }
+    }
+  ]
+}
